@@ -33,5 +33,5 @@ Projeto focado em sustentabilidade e meio ambiente.
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Angela Taide** durante a jornada no Vai na Web.
+Desenvolvido por **Angela Ataide** durante a jornada no Vai na Web.
 Sinta-se à vontade para enviar sugestões ou conectar-se comigo!
